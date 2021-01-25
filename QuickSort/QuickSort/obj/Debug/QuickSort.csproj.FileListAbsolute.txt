@@ -1,0 +1,12 @@
+C:\Users\Kyle\Desktop\Nait\Fall 2016\CMPE2800\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Kyle\Desktop\Nait\Fall 2016\CMPE2800\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Kyle\Desktop\Nait\Fall 2016\CMPE2800\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Kyle\Desktop\Nait\Fall 2016\CMPE2800\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\Nait\Fall 2016\CMPE2800\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Kyle\Desktop\Nait\Fall 2016\CMPE2800\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
+G:\MyStuff\NewNait\Fall 2016 (4th Semester)\CMPE 2800\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+G:\MyStuff\NewNait\Fall 2016 (4th Semester)\CMPE 2800\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+G:\MyStuff\NewNait\Fall 2016 (4th Semester)\CMPE 2800\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+G:\MyStuff\NewNait\Fall 2016 (4th Semester)\CMPE 2800\QuickSort\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+G:\MyStuff\NewNait\Fall 2016 (4th Semester)\CMPE 2800\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+G:\MyStuff\NewNait\Fall 2016 (4th Semester)\CMPE 2800\QuickSort\QuickSort\obj\Debug\QuickSort.pdb

@@ -1,0 +1,11 @@
+E:\ProgramData\Projects\MiniTests\MiniTests\bin\Debug\netcoreapp3.0\MiniTests.exe
+E:\ProgramData\Projects\MiniTests\MiniTests\bin\Debug\netcoreapp3.0\MiniTests.deps.json
+E:\ProgramData\Projects\MiniTests\MiniTests\bin\Debug\netcoreapp3.0\MiniTests.runtimeconfig.json
+E:\ProgramData\Projects\MiniTests\MiniTests\bin\Debug\netcoreapp3.0\MiniTests.runtimeconfig.dev.json
+E:\ProgramData\Projects\MiniTests\MiniTests\bin\Debug\netcoreapp3.0\MiniTests.dll
+E:\ProgramData\Projects\MiniTests\MiniTests\bin\Debug\netcoreapp3.0\MiniTests.pdb
+E:\ProgramData\Projects\MiniTests\MiniTests\obj\Debug\netcoreapp3.0\MiniTests.csprojAssemblyReference.cache
+E:\ProgramData\Projects\MiniTests\MiniTests\obj\Debug\netcoreapp3.0\MiniTests.AssemblyInfoInputs.cache
+E:\ProgramData\Projects\MiniTests\MiniTests\obj\Debug\netcoreapp3.0\MiniTests.AssemblyInfo.cs
+E:\ProgramData\Projects\MiniTests\MiniTests\obj\Debug\netcoreapp3.0\MiniTests.dll
+E:\ProgramData\Projects\MiniTests\MiniTests\obj\Debug\netcoreapp3.0\MiniTests.pdb

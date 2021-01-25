@@ -1,0 +1,10 @@
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\bin\Debug\Modeless Dialoges and Delegates.exe.config
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\bin\Debug\Modeless Dialoges and Delegates.exe
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\bin\Debug\Modeless Dialoges and Delegates.pdb
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\obj\Debug\Modeless Dialoges and Delegates.csprojAssemblyReference.cache
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\obj\Debug\Modeless_Dialoges_and_Delegates.Form_MainForm.resources
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\obj\Debug\Modeless_Dialoges_and_Delegates.Form_Secondary.resources
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\obj\Debug\Modeless_Dialoges_and_Delegates.Properties.Resources.resources
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\obj\Debug\Modeless Dialoges and Delegates.csproj.GenerateResource.cache
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\obj\Debug\Modeless Dialoges and Delegates.exe
+E:\ProgramData\Projects\Modeless Dialoges and Delegates\Modeless Dialoges and Delegates\obj\Debug\Modeless Dialoges and Delegates.pdb
